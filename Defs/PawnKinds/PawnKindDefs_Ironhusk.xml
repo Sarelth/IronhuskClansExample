@@ -6,7 +6,7 @@
 	<defName>Ironhusk_Raider</defName>
     <label>ironhusk raider</label>
     <combatPower>120</combatPower>
-    <xenotypeSet>Ironhusk_Mix</xenotypeSet>
+    <xenotypeSet MayRequire="Ludeon.RimWorld.Biotech">Ironhusk_Mix</xenotypeSet>
     <gearHealthRange><min>0.45</min><max>0.9</max></gearHealthRange>
     <weaponTags>
       <li>NeolithicMeleeBasic</li>
