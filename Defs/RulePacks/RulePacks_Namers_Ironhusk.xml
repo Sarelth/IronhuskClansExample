@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RulePackDefs>
+  <RulePackDef>
+    <defName>Ironhusk_SettlementNames</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>r_name->the $placeword$ of $ironword$</li>
+        <li>placeword->halls|pyres|mounds|horns|shields</li>
+        <li>ironword->iron|blood|bone|embers|frost</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+</RulePackDefs>

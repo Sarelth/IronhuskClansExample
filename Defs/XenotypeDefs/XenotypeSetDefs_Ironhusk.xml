@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XenotypeSetDefs>
+  <XenotypeSetDef>
+    <defName>Ironhusk_Mix</defName>
+    <xenotypes>
+      <li><xenotype>Pigskin</xenotype><chance>0.35</chance></li>
+      <li><xenotype>Neanderthal</xenotype><chance>0.25</chance></li>
+      <li><xenotype>Hussar</xenotype><chance>0.15</chance></li>
+      <!-- Replace the two entries below with mod xenotype defNames -->
+      <li><xenotype>Mod_XenoA</xenotype><chance>0.15</chance></li>
+      <li><xenotype>Mod_XenoB</xenotype><chance>0.10</chance></li>
+    </xenotypes>
+  </XenotypeSetDef>
+</XenotypeSetDefs>

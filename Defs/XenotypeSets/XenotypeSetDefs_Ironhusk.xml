@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XenotypeSetDefs>
+  <XenotypeSetDef MayRequire="Ludeon.RimWorld.Biotech">
+    <defName>IronhuskXenotypes</defName>
+    <xenotypes>
+      <li MayRequire="Ludeon.RimWorld.Biotech">Pigskin</li>
+      <li MayRequire="Ludeon.RimWorld.Biotech">Neanderthal</li>
+      <li MayRequire="Ludeon.RimWorld.Biotech">Hussar</li>
+      <li MayRequire="Ludeon.RimWorld.Biotech">TBD_ModXenotype1</li>
+      <li MayRequire="Ludeon.RimWorld.Biotech">TBD_ModXenotype2</li>
+    </xenotypes>
+  </XenotypeSetDef>
+</XenotypeSetDefs>

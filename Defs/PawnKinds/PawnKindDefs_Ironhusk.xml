@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PawnKindDefs>
+  <!-- Raider -->
+  <PawnKindDef>
+    <race>Human</race>
+	<defName>Ironhusk_Raider</defName>
+    <label>ironhusk raider</label>
+    <combatPower>120</combatPower>
+    <xenotypeSet>Ironhusk_Mix</xenotypeSet>
+    <gearHealthRange><min>0.45</min><max>0.9</max></gearHealthRange>
+    <weaponTags>
+      <li>NeolithicMeleeBasic</li>
+      <li>MedievalMeleeBasic</li>
+      <li>NeolithicRangedJavelin</li>
+	  <li>NeolithicMeleeDestructive</li>
+    </weaponTags>
+    <apparelTags>
+      <li>Tribal</li>
+      <li>Neolithic</li>
+      <li>Medieval</li>
+    </apparelTags>
+    <apparelMoney><min>150</min><max>350</max></apparelMoney>
+    <weaponMoney><min>150</min><max>350</max></weaponMoney>
+    <inventoryOptions><skipChance>0.6</skipChance></inventoryOptions>
+    <skillGains>
+      <Melee>5</Melee>
+      <Mining>1</Mining>
+      <Plants>1</Plants>
+    </skillGains>
+	<initialWillRange>1~3</initialWillRange>
+    <initialResistanceRange>12~19</initialResistanceRange>
+  </PawnKindDef>
+
+  <!-- Ranged -->
+  <PawnKindDef>
+    <race>Human</race>
+	<defName>Ironhusk_Hunter</defName>
+    <label>ironhusk hunter</label>
+    <combatPower>110</combatPower>
+    <xenotypeSet>Ironhusk_Mix</xenotypeSet>
+    <gearHealthRange><min>0.5</min><max>0.95</max></gearHealthRange>
+    <weaponTags>
+      <li>NeolithicRangedBasic</li>
+      <li>NeolithicRangedJavelin</li>
+      <li>MedievalRangedBasic</li>
+	  <li>NeolithicMeleeBasic</li>
+    </weaponTags>
+    <apparelTags>
+      <li>Tribal</li>
+      <li>Neolithic</li>
+      <li>Medieval</li>
+    </apparelTags>
+    <apparelMoney><min>120</min><max>300</max></apparelMoney>
+    <weaponMoney><min>180</min><max>380</max></weaponMoney>
+    <skillGains>
+      <Shooting>5</Shooting>
+      <Animals>1</Animals>
+      <Plants>1</Plants>
+    </skillGains>
+  </PawnKindDef>
+
+  <!-- Elite -->
+  <PawnKindDef>
+    <race>Human</race>
+	<defName>Ironhusk_Berserker</defName>
+    <label>ironhusk berserker</label>
+    <combatPower>180</combatPower>
+    <xenotypeSet>Ironhusk_Mix</xenotypeSet>
+    <gearHealthRange><min>0.4</min><max>0.85</max></gearHealthRange>
+    <weaponTags>
+      <li>MedievalMeleeAdvanced</li>
+      <li>MedievalMeleeBasic</li>
+    </weaponTags>
+    <apparelTags>
+      <li>Tribal</li>
+      <li>Medieval</li>
+    </apparelTags>
+    <apparelMoney><min>450</min><max>600</max></apparelMoney>
+    <weaponMoney><min>600</min><max>800</max></weaponMoney>
+    <skillGains>
+      <Melee>8</Melee>
+      <Mining>1</Mining>
+    </skillGains>
+  </PawnKindDef>
+
+  <!-- Leader -->
+  <PawnKindDef>
+    <race>Human</race>
+	<defName>Ironhusk_Warchief</defName>
+    <label>ironhusk warchief</label>
+    <combatPower>220</combatPower>
+    <xenotypeSet>Ironhusk_Mix</xenotypeSet>
+    <gearHealthRange><min>0.6</min><max>1.0</max></gearHealthRange>
+    <weaponTags>
+      <li>MedievalMeleeAdvanced</li>
+      <li>MedievalRangedBasic</li>
+    </weaponTags>
+    <apparelTags><li>Medieval</li></apparelTags>
+    <apparelMoney><min>800</min><max>1200</max></apparelMoney>
+    <weaponMoney><min>800</min><max>1200</max></weaponMoney>
+    <skillGains>
+      <Melee>12</Melee>
+      <Shooting>6</Shooting>
+      <Social>7</Social>
+    </skillGains>
+  </PawnKindDef>
+</PawnKindDefs>

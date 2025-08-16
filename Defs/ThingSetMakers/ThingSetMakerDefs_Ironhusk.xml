@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThingSetMakerDefs>
+  <ThingSetMakerDef>
+    <defName>IronhuskGearSet</defName>
+    <thingSetMakerClass>RimWorld.ThingSetMaker_Simple</thingSetMakerClass>
+    <thingDefs>
+      <li>Bow_Recurve</li>
+      <li>Longsword</li>
+      <li>Club</li>
+      <li>Warhammer</li>
+      <li>Crossbow</li> <!-- If from mod -->
+    </thingDefs>
+  </ThingSetMakerDef>
+</ThingSetMakerDefs>
