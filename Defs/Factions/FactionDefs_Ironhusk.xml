@@ -7,7 +7,7 @@
   </FactionDef>
 
 <FactionDefs>
-  <!-- Savage barbarian tribe with tribal-to-medieval gear. Always hostile. -->
+  <!-- Savage barbarian tribe with tribal-to-medieval gear. -->
   <FactionDef>
     <defName>IronhuskClans</defName>
     <label>Ironhusk clans</label>

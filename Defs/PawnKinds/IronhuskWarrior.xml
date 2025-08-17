@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PawnKindDef>
+  <defName>IronhuskWarrior</defName>
+  <label>Ironhusk warrior</label>
+  <race>Human</race>
+  <xenotypeSet>
+    <li>IronhuskXenotype</li>
+  </xenotypeSet>
+  <weaponMoney>300</weaponMoney>
+  <apparelMoney>200</apparelMoney>
+  <combatPower>180</combatPower>
+  <gearTags>
+    <li>VikingWeapon</li>
+    <li>OrcArmor</li>
+  </gearTags>
+  <defaultFactionType>IronhuskClansFaction</defaultFactionType>
+</PawnKindDef>

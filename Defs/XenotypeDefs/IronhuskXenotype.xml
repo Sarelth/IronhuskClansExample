@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XenotypeDef>
+  <defName>IronhuskXenotype</defName>
+  <label>Ironhusk</label>
+  <description>An orc-like xenotype known for its strength and resilience.</description>
+  <skinColorBaseHex>556B2F</skinColorBaseHex>
+  <hairColorBaseHex>2E3325</hairColorBaseHex>
+  <minHeight>0.95</minHeight>
+  <maxHeight>1.15</maxHeight>
+  <genes>
+    <li>Robust</li>
+    <li>StrongBack</li>
+    <li>GreatMemory</li>
+    <li>Violent</li>
+  </genes>
+</XenotypeDef>

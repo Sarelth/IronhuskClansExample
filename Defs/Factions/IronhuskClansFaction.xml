@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FactionDef>
+  <defName>IronhuskClansFaction</defName>
+  <label>Ironhusk Clans</label>
+  <description>Orc-like clans that raid using Viking-era weapons but can become allies through trade.</description>
+  <pawnGroupMakers>
+    <li>
+      <kindDef>Combat</kindDef>
+      <options>
+        <li>
+          <kind>IronhuskWarrior</kind>
+          <selectionWeight>1.0</selectionWeight>
+        </li>
+      </options>
+    </li>
+  </pawnGroupMakers>
+  <startGoodwill>-10</startGoodwill>
+  <naturalGoodwill>-10</naturalGoodwill>
+  <allowedTechLevels>
+    <li>Neolithic</li>
+    <li>Medieval</li>
+  </allowedTechLevels>
+  <raidCommonality>1.2</raidCommonality>
+  <permanentEnemy>false</permanentEnemy>
+  <requiredPawnKinds>
+    <li>IronhuskWarrior</li>
+  </requiredPawnKinds>
+  <baseIconPath>Textures/IronhuskClans/ClanBanner</baseIconPath>
+</FactionDef>
