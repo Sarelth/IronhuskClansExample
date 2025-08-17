@@ -7,4 +7,10 @@
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>
+  <modDependencies>
+    <li>medieval.overhaul.houseroxmont</li>
+    <li>medieval.overhaul.housesanguine</li>
+    <li>medieval.overhaul.housezahir</li>
+    <li>medieval.overhaul.barbarians</li>
+  </modDependencies>
 </ModMetaData>
